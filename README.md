@@ -103,14 +103,14 @@
 <h3 align="center">Visit My Portfolio</h3>
 <p align="center">
 <a href="https://portfolio-galib.web.app/" target="_blank" rel="noreferrer">
-    <img src="port2.JPG" alt="tailwind" width="400" height="235" />
+    <img src="port2.JPG" alt="Image"/>
   </a>
 </p>
 
 <h3 align="center">Visit My Blog Website</h3>
 <p align="center">
 <a href="https://galib-blog.web.app/" target="_blank" rel="noreferrer">
-    <img src="blogaction.png" alt="tailwind" width="400" height="235" />
+    <img src="blogaction.png" alt="Image"/>
   </a>
 </p>
 
