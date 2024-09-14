@@ -7,6 +7,26 @@
 
 <br />
 
+<h3 align="center"><strong>Social Links 📱</strong></h3>
+
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100076476525666" target="_blank" rel="noreferrer">
+    <img src="logos/facebook.svg" alt="css3" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/asadullah-al" target="_blank" rel="noreferrer">
+    <img src="logos/linkedin.svg" alt="css3" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@asadullahalgalib2129?feature=shared" target="_blank" rel="noreferrer">
+    <img src="logos/youtube.svg" alt="css3" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+
+<p align="center">
+  <img src="gifs/abouttm.gif" alt="The image couldn't be loaded" />
+</p>
+
+<br />
 <h2 align="center"><strong>Tech Stack</strong></h2>
 
 <h3>Frontend:</h3>
@@ -29,11 +49,20 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
+    <img src="logos/ejs.svg" alt="react" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+    <img src="logos/zustand.svg" alt="redux" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tanstack.com/query/v3" target="_blank" rel="noreferrer">
+    <img src="logos/react-query.svg" alt="redux" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr/>
@@ -60,15 +89,22 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img src="logos/drizzle.svg" alt="flask" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="logos/prisma.svg" alt="flask" width="80" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 <hr/>
-<h3>Languages:</h3>
+<h3>Other Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -113,6 +149,9 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://clerk.com/" target="_blank" rel="noreferrer">
+    <img src="logos/clerk.svg" alt="appwrite" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
