@@ -1,7 +1,10 @@
 ![logo](/banner.png)
 
 <h1 align="center">Hi 👋, I'm Galib</h1>
-<h3 align="center">Building digital marvels with MERN sorcery</h3>
+
+<p align="center">
+  <img src="gifs/abouttm.gif" alt="The image couldn't be loaded" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galib-23&label=Profile%20views&color=0e75b6&style=flat" alt="galib-23" /> </p>
 
@@ -20,11 +23,7 @@
     <img src="logos/youtube.svg" alt="css3" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br/>
 
-<p align="center">
-  <img src="gifs/abouttm.gif" alt="The image couldn't be loaded" />
-</p>
 
 <br />
 <h2 align="center"><strong>Tech Stack</strong></h2>
