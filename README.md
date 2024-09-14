@@ -1,17 +1,13 @@
 ![logo](/banner.png)
 
 <h1 align="center">Hi 👋, I'm Galib</h1>
-
+<p align="center">Whether it is creating interactive user interfaces or architecting seamless backend systems, I love the challenge of turning concepts into reality through code.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=galib-23&label=Profile%20views&color=0e75b6&style=flat" alt="galib-23" /> </p>
 <p align="center">
-  <img src="gifs/abouttm.gif" alt="The image couldn't be loaded" />
+  <img src="gifs/abouttm.gif" alt="The image couldn't be loaded" width="420" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=galib-23&label=Profile%20views&color=0e75b6&style=flat" alt="galib-23" /> </p>
-
-<br />
-
 <h3 align="center"><strong>Social Links 📱</strong></h3>
-
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100076476525666" target="_blank" rel="noreferrer">
     <img src="logos/facebook.svg" alt="css3" width="40" height="40" />
