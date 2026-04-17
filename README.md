@@ -1,11 +1,11 @@
-![logo](/banner.png)
+<p align="center">
+  <img src="banner2.jpg" alt="The image couldn't be loaded" width="420" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Galib</h1>
 <p align="center">Whether it is creating interactive user interfaces or architecting seamless backend systems, I love <br /> the challenge of turning concepts into reality through code.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galib-23&label=Profile%20views&color=0e75b6&style=flat" alt="galib-23" /> </p>
-<p align="center">
-  <img src="gifs/abouttm.gif" alt="The image couldn't be loaded" width="420" />
-</p>
+
 
 <h3 align="center"><strong>Social Links 📱</strong></h3>
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="www.linkedin.com/in/asadullah-al" target="_blank" rel="noreferrer">
     <img src="logos/linkedin.svg" alt="css3" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@asadullahalgalib2129?feature=shared" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@meowcode23" target="_blank" rel="noreferrer">
     <img src="logos/youtube.svg" alt="css3" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -90,9 +90,6 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="logos/prisma.svg" alt="flask" width="80" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -150,7 +147,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br />
+<!-- <br />
 <h3 align="center">Visit My Portfolio</h3>
 <p align="center">
 <a href="https://portfolio-galib.web.app/" target="_blank" rel="noreferrer">
@@ -163,7 +160,7 @@
 <a href="https://galib-blog.web.app/" target="_blank" rel="noreferrer">
     <img src="blogaction.png" alt="Image"/>
   </a>
-</p>
+</p> -->
 
 <br />
 <br />
