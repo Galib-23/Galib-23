@@ -6,7 +6,6 @@
 <p align="center">Whether it is creating interactive user interfaces or architecting seamless backend systems, I love <br /> the challenge of turning concepts into reality through code.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galib-23&label=Profile%20views&color=0e75b6&style=flat" alt="galib-23" /> </p>
 
-
 <h3 align="center"><strong>Social Links 📱</strong></h3>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100076476525666" target="_blank" rel="noreferrer">
@@ -20,12 +19,10 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <br />
 <h2 align="center"><strong>Tech Stack</strong></h2>
 
 <h3>Frontend:</h3>
-<p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,10 +56,8 @@
   <a href="https://tanstack.com/query/v3" target="_blank" rel="noreferrer">
     <img src="logos/react-query.svg" alt="redux" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 <hr/>
 <h3>Backend:</h3>
-<p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,10 +89,9 @@
     <img src="logos/prisma.svg" alt="flask" width="80" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-</p>
 <hr/>
 <h3>Other Languages:</h3>
-<p align="left">
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,10 +107,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 <hr/>
 <h3>Tools:</h3>
-<p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -132,10 +124,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 <hr/>
 <h3>SAAS:</h3>
-<p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -145,7 +135,6 @@
   <a href="https://clerk.com/" target="_blank" rel="noreferrer">
     <img src="logos/clerk.svg" alt="appwrite" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 <!-- <br />
 <h3 align="center">Visit My Portfolio</h3>
